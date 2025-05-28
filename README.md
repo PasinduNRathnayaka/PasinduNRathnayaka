@@ -9,7 +9,7 @@
 
 ## 💡 About Me
 
-I'm an energetic and detail-oriented undergraduate student majoring in **Computer Science and Statistics** with a strong interest in **Full Stack Web Development**, **Data Analysis**, and **Industrial Engineering**. I enjoy solving problems, leading teams, and developing innovative solutions using modern technologies.
+I'm an energetic and detail-oriented undergraduate student majoring in **Computer Science and Statistics** with a strong interest in **Full Stack Web Development** and  **Data Analysis**. I enjoy solving problems, leading teams, and developing innovative solutions using modern technologies.
 
 ---
 
@@ -28,43 +28,3 @@ I'm an energetic and detail-oriented undergraduate student majoring in **Compute
 - **Description**: Conducting a research project to identify optimal areas for solar panel installation using statistical and geographic data.
 
 ---
-
-## 🧠 Skills
-
-**Technical:**  
-- Programming: JavaScript, Java, C  
-- Data Analysis: SPSS, R, Excel, SQL  
-- Web Development: MERN Stack, WordPress  
-
-**Soft Skills:**  
-- Leadership, Problem Solving, Time Management, Communication, Teamwork  
-
-**Management:**  
-- Project Management, Strategic Planning, Statistical Modeling  
-
----
-
-## 🎯 Career Objective
-
-Aspiring to join **MAS Active** as an Executive - Industrial Engineering, with a passion for continuous improvement, strategic planning, and data-driven decision making in a dynamic manufacturing environment.
-
----
-
-## 🏀 Extra-Curricular Activities
-
-- Active Member, Soft Skills Development Program – University of Ruhuna  
-- Member, University Science Society  
-- Basketball Player, Faculty & University Teams  
-
----
-
-## 🔗 CV
-
-You can find my latest CV [here](./Pasindu%20Rathnayaka.pdf).
-
----
-
-## 📌 Let's Connect!
-
-Feel free to connect, collaborate, or discuss new ideas. I’m always excited to explore new opportunities and grow together!
-
