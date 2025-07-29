@@ -21,7 +21,6 @@ I'm an energetic and detail-oriented undergraduate student majoring in **Compute
 - **Skills**: Full Stack Development, Git, Project Management  
 - **Description**: Leading a dynamic group project to build a fully functional MERN stack web application.
 
-# 🌞 Solaris Lanka – Solar Suitability Survey Web App
 
 ### ☀️ Solar Panel Suitability Survey – Sri Lanka
 
@@ -31,14 +30,4 @@ I'm an energetic and detail-oriented undergraduate student majoring in **Compute
 - **📌 Description**:  
   This research-driven project focuses on identifying the most suitable regions in Sri Lanka for solar panel installation. By combining **statistical techniques**, **geographic data analysis**, and **software development**, the project delivers a **location-aware web application**. It empowers users to explore solar potential based on their location while giving administrators control over environmental inputs, model configurations, and economic variables. The goal is to support Sri Lanka’s transition to **sustainable and renewable energy solutions**.
 
----
 
-## 🚀 Features
-
-- 📍 **Location-Based Suitability** – Select your province, district, and city to check solar energy potential
-- 📊 **Data-Driven Analysis** – Results based on real statistical and environmental data
-- 🌐 **User-Friendly Interface** – Designed for ease of use across all devices
-- 🔧 **Admin Panel** – Manage environmental variables, PVOUT models, solar panel types, and economic factors
-- 💡 **Monthly & Daily Estimates** – Shows daily electricity generation and expected monthly income
-
----
