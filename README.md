@@ -2,7 +2,8 @@
 
 🎓 **Undergraduate | BSc in Computer Science & Statistics**  
 📍 University of Ruhuna | Faculty of Science  
-📫 Email: rathnayaka12106@usci.ruh.ac.lk  
+📫 Email: rathnayaka12106@usci.ruh.ac.lk 
+📫 Email: pniroshan0611@gmail.com
 📞 Phone: 078-7214711  
 
 ---
